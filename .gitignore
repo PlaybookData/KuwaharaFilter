@@ -33,7 +33,7 @@
 
 #Image files
 *.tif
+*.jpg
 
 # PDFs
 *.pdf
-*.jpg
